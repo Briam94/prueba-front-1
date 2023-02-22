@@ -1,0 +1,22 @@
+.list-users-button{
+    padding-top: 1rem;
+    text-align: center;
+}
+
+.close-users{
+    margin-left: 10px;
+}
+
+.avatar {
+    width: 149px;
+    height: 149px;
+}
+
+.table-list {
+    height: 50px;
+}
+
+.table-container{
+    height: 500px;
+    overflow: scroll;
+}
